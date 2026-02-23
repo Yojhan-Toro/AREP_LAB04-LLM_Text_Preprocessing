@@ -101,5 +101,5 @@ Basado en el trabajo original de **Sebastian Raschka** — [rasbt/LLMs-from-scra
 
 ## Acknowledgments
 
-- Sebastian Raschka por el libro y el código original del repositorio
-- Edith Wharton por *The Verdict*, el corpus de texto utilizado en los ejemplos
+- Sebastian Raschka por el libro y el código original del repositorio   
+- Edith Wharton por *The Verdict*, el corpus de texto utilizado en los ejemplos   
